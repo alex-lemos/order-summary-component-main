@@ -22,12 +22,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/screenshot.png)
+![](./images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/alex-lemos/order-summary-component-main)
+- Live Site URL: [Pages](https://alex-lemos.github.io/order-summary-component-main/)
 
 ## My process
 
@@ -35,4 +35,6 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS BEM
 - Flexbox
+- Media Queries
